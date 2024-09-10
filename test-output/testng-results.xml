@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-10T17:04:25 IST" name="Suite" finished-at="2024-09-10T17:04:37 IST" duration-ms="12707">
+    <groups>
+    </groups>
+    <test started-at="2024-09-10T17:04:25 IST" name="Test" finished-at="2024-09-10T17:04:37 IST" duration-ms="12707">
+      <class name="germanyiscalling.AssesmentGIC.UnscessfulLoginSc1">
+        <test-method signature="invalidemailvalidps()[pri:0, instance:germanyiscalling.AssesmentGIC.UnscessfulLoginSc1@42a48628]" started-at="2024-09-10T17:04:28 IST" name="invalidemailvalidps" finished-at="2024-09-10T17:04:30 IST" duration-ms="2525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidemailvalidps -->
+      </class> <!-- germanyiscalling.AssesmentGIC.UnscessfulLoginSc1 -->
+      <class name="germanyiscalling.AssesmentGIC.UnscessfulLoginSc2">
+        <test-method signature="validemailinvalidps()[pri:0, instance:germanyiscalling.AssesmentGIC.UnscessfulLoginSc2@293a5bf6]" started-at="2024-09-10T17:04:30 IST" name="validemailinvalidps" finished-at="2024-09-10T17:04:33 IST" duration-ms="2674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validemailinvalidps -->
+      </class> <!-- germanyiscalling.AssesmentGIC.UnscessfulLoginSc2 -->
+      <class name="germanyiscalling.AssesmentGIC.UnscessfulLoginSc3">
+        <test-method signature="invalidemailinvalidps()[pri:0, instance:germanyiscalling.AssesmentGIC.UnscessfulLoginSc3@6aeb35e6]" started-at="2024-09-10T17:04:33 IST" name="invalidemailinvalidps" finished-at="2024-09-10T17:04:35 IST" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidemailinvalidps -->
+      </class> <!-- germanyiscalling.AssesmentGIC.UnscessfulLoginSc3 -->
+      <class name="germanyiscalling.AssesmentGIC.UnscessfulLoginsc4">
+        <test-method signature="emptyfield()[pri:0, instance:germanyiscalling.AssesmentGIC.UnscessfulLoginsc4@1283bb96]" started-at="2024-09-10T17:04:35 IST" name="emptyfield" finished-at="2024-09-10T17:04:37 IST" duration-ms="1915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyfield -->
+      </class> <!-- germanyiscalling.AssesmentGIC.UnscessfulLoginsc4 -->
+      <class name="germanyiscalling.AssesmentGIC.SuccessfulLogin">
+        <test-method signature="successful_login()[pri:0, instance:germanyiscalling.AssesmentGIC.SuccessfulLogin@35e2d654]" started-at="2024-09-10T17:04:25 IST" name="successful_login" finished-at="2024-09-10T17:04:28 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successful_login -->
+      </class> <!-- germanyiscalling.AssesmentGIC.SuccessfulLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
